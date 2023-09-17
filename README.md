@@ -126,9 +126,7 @@ class CourseAdmin(admin.ModelAdmin):
 
 admin.site.register(Course, CourseAdmin)
 ```
-
-![Captura de pantalla 2023-09-16 232837](https://github.com/josuecross/adminsite_django/assets/85675115/32dde4c3-4b6b-413c-bb99-7bd029838ce4)
-
+![Captura de pantalla 2023-09-16 232837](https://github.com/josuecross/adminsite_django/assets/85675115/1a5dc56d-6b1c-448e-a84a-43cd14dd705a)
 
 
 
