@@ -19,7 +19,7 @@ views.py: defines views for each webpage (see .html files in templates folder)
 
 Cloning the repository
 ```
-git clone https://github.com/josuecross/adminsite_django
+git clone https://github.com/josuecross/school_adminsite_django
 ```
 
 Install dependencies:
@@ -40,7 +40,7 @@ To create a superuser for acces admin site:
 python3 manage.py createsuperuser
 ```
 
-To run de server:
+To run the server:
 ```
 python3 manage.py runserver
 ```
