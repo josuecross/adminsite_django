@@ -18,14 +18,13 @@ views.py: defines views for each webpage (see .html files in templates folder)
 ## Setting up
 
 Cloning the repository
-'''
+```
 git clone https://github.com/josuecross/adminsite_django
-'''
-
+```
 Install dependencies:
-'''
+```
 python3 -m pip install -U -r requirements.txt
-'''
+```
 
 
 
